@@ -1,6 +1,6 @@
 # Apantas
 
-## What is does
+## What it does
 Apantas is a tool that allows you to ask questions from a text file
 using Universal Sentence Encoder and OpenAI.
 
